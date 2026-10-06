@@ -1,0 +1,116 @@
+tool_id,type,diameter_mm,edges,condition,material,coating,background_type,color,notes,inspection_status
+tool001,endmill,10.0,6,new,,Yes,yes,dark gray,WELD-ON,Reinspect
+tool002,drill,10.0,2,new,Carbide,Yes,yes,dark gray,"SOLID CARBIDE DRILL, without internal cooling channels. Carbide.",Finished
+tool003,endmill,10.0,4,new,,Yes,yes,dark gray,"Dedicated roughing, and the chip formation better because of wavy surface. Higher material remove rate.",Reinspect
+tool004,endmill,10.0,3,new,,Yes,yes,dark gray,INTERNAL COOLANT CHANNELS,Reinspect
+tool005,endmill,10.0,4,new,,Yes,yes,silver,Big radius on the edge. special because it can work on 3d (FREE) surface finishing.,Reinspect
+tool006,endmill,7.0,4,used,,Yes,no,dark gray,,Reinspect
+tool007,endmill,8.0,4,new,,No,yes,light silver,,Reinspect
+tool008,endmill,4.0,3,new,,Yes,yes,silver,shank is 6 mm,Reinspect
+tool009,endmill,10.0,4,new,,Yes,yes,silver,Endmill cutter means wecan either use the face or the pheripheral sides. and the shank is weld on,Reinspect
+tool010,drill,5.5,2,used,Carbide,Yes,yes,silver,"Internal coolant, weld-on. There is no significant usage but there are a little color differences.",Finished
+tool011,endmill,4.8,4,new,,Yes,yes,dark gray,shaft is 6 mm,Reinspect
+tool012,endmill,7.0,2,new,,No,yes,silver,WELD ON.,Reinspect
+tool013,endmill,10.0,4,used,,Yes,yes,dark gray,,Reinspect
+tool014,endmill,10.0,4,fractured,,Yes,yes,light gold,,Reinspect
+tool015,endmill,12.0,4,fractured,,Yes,yes,dark gray,,Finished
+tool016,endmill,2.0,2,fractured,,Yes,yes,dark gray,"Small diameter, it can be broken as well, depending on the definition.",Reinspect
+tool017,endmill,14.0,4,fractured,,Yes,yes,light silver,,Finished
+tool018,endmill,11.6,4,fractured,,Yes,yes,dark gray,shank is 12,Finished
+tool019,endmill,10.0,4,fractured,,Yes,yes,dark gray,Roughing,Reinspect
+tool020,endmill,8.0,6,fractured,,Yes,yes,brown,,Reinspect
+tool021,endmill,8.0,6,fractured,,Yes,yes,brown,,Reinspect
+tool022,endmill,10.0,4,fractured,,Yes,yes,light gold,"The coating color is not exactly the same as  the tool. End mill cutter. Pheripheral edges are visible only, the face edges are broken. similar to 101.",Reinspect
+tool023,endmill,8.0,4,deposit,,Yes,yes,dark gray,Workpiece has melted on the tooth,Reinspect
+tool024,endmill,10.0,4,deposit,,Yes,yes,Golden but burned,"Melting the material, special case and on the top there's material loss. ",Reinspect
+tool025,endmill,12.0,4,fractured,,Yes,no,dark gray,the shank diameter is 12. Very fine fracture,Reinspect
+tool026,endmill,10.0,3,fractured,,No,no,Silver,,Reinspect
+tool027,endmill,16.0,6,used,,Yes,no,brown,,Reinspect
+tool028,drill,8.5,2,new,Carbide,Yes,yes,"dark gray, brown",Internal Coolant. Two different coatings. It could be due to different machining conditions. Carbide,
+tool029,endmill,10.0,3,fractured,,no,no,silver,,Finished
+tool030,endmill,10.0,4,fractured,,Yes,no,dark gray,Roughing tool,Reinspect
+tool031,endmill,4.0,3,used,,Yes,no,brown,shank is 6 mm,Reinspect
+tool032,endmill,12.0,4,fractured,,Yes,no,brown,,Finished
+tool033,endmill,7.0,2,used,HSS,No,no,silver,Wood industry tool That's why it is worn because in wood industry we need very sharp edges.  HSS. Shaft is 8 mm,Finished
+tool034,endmill,10.0,2,fractured,,No,no,silver,"Uncoated, .",Reinspect
+tool035,endmill,4.0,2,worn,HSS,Yes,no,silver,Wood industry HSS,Finished
+tool036,endmill,8.0,3,fractured,,No,no,silver,,Reinspect
+tool037,endmill,4.0,4,fractured,,Yes,no,dark gray,shank is 6 mm,Reinspect
+tool038,topper,13.16,4,fractured,,No,yes,silver,Spiral.  Grinded the top surface. One top edge is fractured. G 1/4 BSPP = tool diameter: 13.16; tool pitch: 1.34,Question
+tool039,topper,6.0,3,deposit,HSS-E,No,yes,silver,Spiral. It seems it has attached chips but the edges are smooth. We have extra cone on the tip for griding porposes.   M6 6H 40degree-22.4,Finished
+tool040,topper,5.0,3,fractured,HSS-E,Yes,yes,golden,Top surface is partially grinded (the cone is partially visible). Spiral,Finished
+tool041,topper,4.0,3,used,HSS-E,Yes,yes,golden,"ONE OF THE GOOD EXAMPLES THAT WE CAN SHOW THE STRUCTUE OF THE TOOL BECAUSE ITS EASY TO SEE THE TOP SURFACE IS GRINDED BY THE FACTORY. the edges, the cone are visible, speciall tool, can be used as showcase. Straight ",Finished
+tool042,topper,6.0,3,used,HSSE-TIN,Yes,no,gold,Grinded by hand,Finished
+tool043,topper,5.0,3,used,HSSE,Yes,yes,gold,Worn or Used is where the color has changed. The top surface is grinded.,Finished
+tool044,topper,6.0,3,used,HSS-E,Yes,yes,dark gray,Grinded manually on the top surface. spiral,Finished
+tool045,topper,5.0,3,used,HSS-E,No,yes,silver,,Finished
+tool046,topper,4.0,3,used,,Yes,yes,silver,the griding profile doesn't account to fracture. straight,Finished
+tool047,topper,4.0,3,fractured,,Yes,yes,gold,color change on tip,Finished
+tool048,topper,5.0,3,fractured,HSS-E,Yes,yes,dark gray,spiral,Finished
+tool049,topper,6.0,3,fractured,HSS-E,Yes,yes,dark gray,straight,Finished
+tool050,topper,15.0,3,fractured,HSS,Yes,yes,silver,straight,Finished
+tool051,topper,10.0,3,fractured,,Yes,yes,golden,straight (not spiral),Finished
+tool052,topper,12.0,3,fractured,HSSE-PM,Yes,yes,silver,"Competely fractured, topper! comptely broken, and it is spiral.",Finished
+tool053,topper,8.0,3,fractured,HSSE,Yes,no,gold,,Finished
+tool054,topper,12.0,4,fractured,HSSE,No,yes,silver,manually gridnded the top surface. maybe not coated.,Finished
+tool055,chamfer,10.0,4,fractured,,Yes,no,dark gray,,Finished
+tool056,chamfer,10.0,4,fractured,,Yes,yes,dark gray,"IF nails don't get stuck but the collor is different, then its worn, but if the nails get stuck it is fractured.",Finished
+tool057,chamfer,10.0,4,used,,Yes,yes,dark gray,"Good tool, with a little bit of wear, the tip has lost its color that's why we say it is worn. only the first 5 milimeters. and the shank is weld on.",Finished
+tool058,chamfer,10.0,4,fractured,,Yes,yes,dark gray,Weld-on,Finished
+tool059,chamfer,8.0,4,fractured,,Yes,yes,silver,Weld-on,Finished
+tool060,chamfer,6.0,4,fractured,,Yes,yes,dark gray,Weld-on,Finished
+tool061,chamfer,6.0,4,fractured,,Yes,yes,dark gray,Weld-on,Finished
+tool062,drill,9.0,2,fractured,Carbide,Yes,yes,dark gray,"Internal Ccoolant, carbide.",Finished
+tool063,drill,8.4,2,fractured,HSS,No,yes,silver,,Finished
+tool064,central_drill,8.0,2,fractured,,Yes,yes,silver,We use them to drill a small hole because they are more rigid,Finished
+tool065,central_drill,10.0,2,fractured,,no,no,dark gray,We use them to drill a small hole because they are more rigid,Finished
+tool066,drill,5.0,2,fractured,HSS,Yes,yes,dark gray,HSS,Finished
+tool067,drill,4.2,2,used,Carbide,Yes,yes,dark gray,"Carbide, without internal coolant",Finished
+tool068,drill,3.5,2,used,HSS,Yes,yes,golden,HSS (high speed steel),Finished
+tool069,drill,5.1,2,deposit,HSS,Yes,yes,gold,"HSS, the top is melted!",Finished
+tool070,drill,3.0,2,fractured,HSS,No,yes,silver,,Finished
+tool071,drill,2.8,2,used,HSS,Yes,yes,gold,HSS (high speed steel),Finished
+tool072,drill,2.8,2,fractured,HSS,Yes,yes,gold,HSS (high speed steel),Finished
+tool073,drill,2.8,2,used,HSS,Yes,yes,gold,HSS (high speed steel),Finished
+tool074,drill,5.3,2,fractured,Carbide,Yes,yes,golden,"With internal coolant, and carbide.",Finished
+tool075,reamer,8.0,6,fractured,HSS-E,Yes,yes,silver,spiral,
+tool076,reamer,8.0,8,used,HSS,Yes,yes,dark gray,"Reamer, is to create a very fine tolerance and if it is a little worn then already its not good. HSS. spiral",Finished
+tool077,t_slot,13.5,6,fractured,HSS,No,no,silver,"Weld on, uncoated. one edge or teeth is competely gone. HSS. https://www.zps-fn.cz/en/search/detail/woodruff-keyseat-cutters,-weldon-shank,-din-850,-high-speed-steel-hss-co5/",Finished
+tool078,topper,20.0,4,used,HSS-E,Yes,yes,Silver,C-M20,Finished
+tool079,endmill,8.0,4,fractured,,Yes,no,light silver,,Reinspect
+tool080,endmill,8.0,4,fractured,,Yes,no,dark gray,,Reinspect
+tool081,endmill,8.0,4,fractured,,Yes,no,light silver,,Finished
+tool082,endmill,8.0,4,fractured,,Yes,no,dark gray,,Finished
+tool083,endmill,8.0,3,fractured,,No,no,silver,,Reinspect
+tool084,endmill,8.0,4,fractured,,Yes,no,dark gray,,Finished
+tool085,endmill,8.0,4,used,,Yes,no,brown,,Reinspect
+tool086,endmill,8.0,4,used,,Yes,no,brown,,Reinspect
+tool087,endmill,8.0,4,used,,Yes,no,brown,,Reinspect
+tool088,endmill,11.6,4,fractured,,Yes,no,dark gray,Q: `The webpage says 12 but it measures exactly 11.6 mm the top`  https://toolsunited.com/EN/Article/Details/24696400130670156?print=True,Question
+tool089,endmill,12.0,5,used,,Yes,no,dark gray,,Reinspect
+tool090,endmill,10.0,4,used,,Yes,no,dark gray,Originally has a small chamfer on the edges. Very minor fracture on those edges. shaft diameter is 12 mm.,Reinspect
+tool091,endmill,12.0,4,fractured,,Yes,no,dark gray,Very fine fracture,Reinspect
+tool092,endmill,12.0,6,fractured,,Yes,no,dark gray,,Reinspect
+tool093,endmill,12.0,4,used,,Yes,no,gold,"The color is visibly changed, however the are minimal signs of fracture on one edge.",Reinspect
+tool094,endmill,12.0,4,fractured,,Yes,no,light silver,,Finished
+tool095,endmill,10.0,3,fractured,carbide,Yes,yes,light golden,,Finished
+tool096,endmill,10.0,4,fractured,,Yes,yes,dark gray,"color gradient, background is tricky, because it neither is no, neither is yes.",Finished
+tool097,endmill,10.0,4,fractured,,Yes,no,gold,,Finished
+tool098,endmill,10.0,4,fractured,,Yes,yes,light silver,,Finished
+tool099,endmill,10.0,4,used,,Yes,no,dark gray,Roughing,Reinspect
+tool100,endmill,10.0,4,fractured,,Yes,yes,light gold,,Finished
+tool101,endmill,10.0,4,fractured,,Yes,no,light gold,very fine fracture along the edges.,Reinspect
+tool102,endmill,10.0,3,fractured,,No,no,silver,Uncoated,Reinspect
+tool103,endmill,9.0,3,fractured,,No,no,silver,,Reinspect
+tool104,endmill,10.0,4,fractured,,Yes,no,dark gray,,Finished
+tool105,endmill,10.0,4,used,,Yes,yes,dark gray,"Used, meaning we can use more, but worn meaning no more usage.",Reinspect
+tool106,endmill,10.0,4,used,,Yes,no,dark gray,,Reinspect
+tool107,endmill,6.0,4,used,,Yes,yes,dark gray,,Reinspect
+tool108,topper,4.0,3,fractured,,Yes,yes,golden,,Finished
+tool109,endmill,12.0,4,fractured,,Yes,yes,dark gray,,Finished
+tool110,endmill,12.0,4,fractured,,Yes,no,dark gray,shank diameter 14. very fine fracture along some edges,Reinspect
+tool111,endmill,14.0,4,used,,Yes,yes,silver,Weld-on. shank is 16 mm,Reinspect
+tool112,endmill,7.0,2,new,,No,yes,silver,weld-on,Reinspect
+tool113,endmill,7.0,2,new,,No,yes,silver,weld-on,Reinspect
+tool114,endmill,7.0,2,new,,No,Yes,silver,weld-on.,Reinspect
+tool115,endmill,7.0,2,new,,No,Yes,silver,and weld-on.,Reinspect
